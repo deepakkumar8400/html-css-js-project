@@ -44,4 +44,4 @@ This is a portfolio website created to showcase my skills, projects, and profess
 
 ## **License**
 
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+This project is open-source and available under the MIT License.
